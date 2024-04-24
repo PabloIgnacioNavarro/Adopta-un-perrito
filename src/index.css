@@ -1,0 +1,23 @@
+.caja {
+  margin: 0px;
+  width: 100%;
+  padding: 10px;
+}
+.tarjeta {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 20px;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+}
+.pie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
